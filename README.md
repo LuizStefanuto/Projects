@@ -1,2 +1,2 @@
 # Projects
-List of my machine learning/data science projects.
+List of machine learning/data science projects.
